@@ -1,0 +1,4 @@
+name: MyAgdaLibrary 
+include: .
+depend:
+flags:
